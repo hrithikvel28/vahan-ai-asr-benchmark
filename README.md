@@ -55,8 +55,8 @@ vahan-ai-asr-benchmark/
 
 ## Files
 
-* `audio/` → locality audio recordings
-* `results/` → benchmark outputs and metrics
+* `audio/` → locality audio recordings (Click Google Drive link below for 20 recordings)
+* `results/` → benchmark outputs and metrics (Click Google Drive Link below for results 5 CSV files)
 * `report/` → final benchmark report
 * `vahan_asr_assignment.ipynb` → reproducible ASR benchmarking pipeline
 
